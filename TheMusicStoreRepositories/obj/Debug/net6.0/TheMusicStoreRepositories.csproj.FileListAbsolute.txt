@@ -1,0 +1,14 @@
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\bin\Debug\net6.0\TheMusicStoreRepositories.deps.json
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\bin\Debug\net6.0\TheMusicStoreRepositories.runtimeconfig.json
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\bin\Debug\net6.0\TheMusicStoreRepositories.dll
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\bin\Debug\net6.0\TheMusicStoreRepositories.pdb
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.csproj.AssemblyReference.cache
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.AssemblyInfoInputs.cache
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.AssemblyInfo.cs
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.csproj.CoreCompileInputs.cache
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.dll
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\refint\TheMusicStoreRepositories.dll
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.pdb
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\TheMusicStoreRepositories.genruntimeconfig.cache
+C:\Users\aida.buza\source\repos\TheMusicStore\TheMusicStoreRepositories\obj\Debug\net6.0\ref\TheMusicStoreRepositories.dll
